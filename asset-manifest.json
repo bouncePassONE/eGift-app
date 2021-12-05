@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/eGift-app/static/css/main.77cece8a.chunk.css",
+    "main.css": "/eGift-app/static/css/main.d086c308.chunk.css",
     "main.js": "/eGift-app/static/js/main.70a19b98.chunk.js",
     "main.js.map": "/eGift-app/static/js/main.70a19b98.chunk.js.map",
     "runtime-main.js": "/eGift-app/static/js/runtime-main.57959549.js",
@@ -10,7 +10,7 @@
     "static/js/3.5a4662f2.chunk.js": "/eGift-app/static/js/3.5a4662f2.chunk.js",
     "static/js/3.5a4662f2.chunk.js.map": "/eGift-app/static/js/3.5a4662f2.chunk.js.map",
     "index.html": "/eGift-app/index.html",
-    "static/css/main.77cece8a.chunk.css.map": "/eGift-app/static/css/main.77cece8a.chunk.css.map",
+    "static/css/main.d086c308.chunk.css.map": "/eGift-app/static/css/main.d086c308.chunk.css.map",
     "static/js/2.34788fa2.chunk.js.LICENSE.txt": "/eGift-app/static/js/2.34788fa2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/eGift-app/static/media/4488709.47a544ae.jpg",
     "static/media/GiftONE.a13c660b.svg": "/eGift-app/static/media/GiftONE.a13c660b.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.57959549.js",
     "static/js/2.34788fa2.chunk.js",
-    "static/css/main.77cece8a.chunk.css",
+    "static/css/main.d086c308.chunk.css",
     "static/js/main.70a19b98.chunk.js"
   ]
 }
