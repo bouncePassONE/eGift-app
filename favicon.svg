@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 32 32" width="16px" height="16px" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 10px;" x="13.909" y="15.146" transform="matrix(2.779695, 0, 0, 4.120352, -39.662781, -31.097059)" bx:origin="0.5 0.480595">bP</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 40px; white-space: pre;" x="4" y="30.238" bx:origin="0.091835 0.145444">b</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 40px; white-space: pre;" x="4" y="30.238" bx:origin="0 -0.000009">P</text>
 </svg>
