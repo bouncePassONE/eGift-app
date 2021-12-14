@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/eGift-app/static/css/main.4df21d49.chunk.css",
+    "main.css": "/eGift-app/static/css/main.6393da0f.chunk.css",
     "main.js": "/eGift-app/static/js/main.37346960.chunk.js",
     "main.js.map": "/eGift-app/static/js/main.37346960.chunk.js.map",
-    "runtime-main.js": "/eGift-app/static/js/runtime-main.c10b9db0.js",
-    "runtime-main.js.map": "/eGift-app/static/js/runtime-main.c10b9db0.js.map",
-    "static/js/2.fdf51df0.chunk.js": "/eGift-app/static/js/2.fdf51df0.chunk.js",
-    "static/js/2.fdf51df0.chunk.js.map": "/eGift-app/static/js/2.fdf51df0.chunk.js.map",
+    "runtime-main.js": "/eGift-app/static/js/runtime-main.57959549.js",
+    "runtime-main.js.map": "/eGift-app/static/js/runtime-main.57959549.js.map",
+    "static/js/2.f0d21195.chunk.js": "/eGift-app/static/js/2.f0d21195.chunk.js",
+    "static/js/2.f0d21195.chunk.js.map": "/eGift-app/static/js/2.f0d21195.chunk.js.map",
     "static/js/3.5a4662f2.chunk.js": "/eGift-app/static/js/3.5a4662f2.chunk.js",
     "static/js/3.5a4662f2.chunk.js.map": "/eGift-app/static/js/3.5a4662f2.chunk.js.map",
     "index.html": "/eGift-app/index.html",
-    "static/css/main.4df21d49.chunk.css.map": "/eGift-app/static/css/main.4df21d49.chunk.css.map",
-    "static/js/2.fdf51df0.chunk.js.LICENSE.txt": "/eGift-app/static/js/2.fdf51df0.chunk.js.LICENSE.txt",
+    "static/css/main.6393da0f.chunk.css.map": "/eGift-app/static/css/main.6393da0f.chunk.css.map",
+    "static/js/2.f0d21195.chunk.js.LICENSE.txt": "/eGift-app/static/js/2.f0d21195.chunk.js.LICENSE.txt",
     "static/media/GiftONE.8df83d68.svg": "/eGift-app/static/media/GiftONE.8df83d68.svg",
     "static/media/index.css": "/eGift-app/static/media/background.2b8636d1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c10b9db0.js",
-    "static/js/2.fdf51df0.chunk.js",
-    "static/css/main.4df21d49.chunk.css",
+    "static/js/runtime-main.57959549.js",
+    "static/js/2.f0d21195.chunk.js",
+    "static/css/main.6393da0f.chunk.css",
     "static/js/main.37346960.chunk.js"
   ]
 }
